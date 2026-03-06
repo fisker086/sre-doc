@@ -169,11 +169,13 @@ systemctl restart apache2
 
 ### 1、基础配置
 
-![1-基础配置](1-基础配置.png)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ad43d09-63aa-450b-ad41-9632711ff689" />
+
 
 ### 2、接入ldap
 
-![接入ldap](2-接入ldap.png)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ed0b46da-32ae-479f-b81c-1a904694ed3d" />
+
 
 ### 3、指定ldap中某个用户为管理员
 
