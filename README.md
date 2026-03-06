@@ -22,7 +22,7 @@
 
 ## Repository Tree
 
-<details open>
+<details close>
 <summary>点击折叠/展开完整目录结构</summary>
 
 ```text
@@ -978,3 +978,6 @@
 ```
 
 </details>
+
+## 联系方式
+<img width="758" height="932" alt="image" src="https://github.com/user-attachments/assets/69acc720-e318-49e6-a656-fe96a8c52c02" />
