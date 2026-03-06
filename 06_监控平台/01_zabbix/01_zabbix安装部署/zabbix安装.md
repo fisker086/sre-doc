@@ -288,8 +288,7 @@ http://10.0.0.71/zabbix
 设置密码
 ```
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/964d14b8-83c0-4cf3-b0df-8b93d6302bbd" />
-
+![1](1.png)
 
 ```bash
 设置好密码
@@ -297,8 +296,7 @@ http://10.0.0.71/zabbix
 设置名字
 ```
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6d5c3169-3c18-45f8-bdb0-f9d69a01ec9d" />
-
+![2](2.png)
 
 
 
@@ -308,8 +306,7 @@ http://10.0.0.71/zabbix
 
 
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f72e13bf-6430-4c7f-a71c-f9aab6b7eedb" />
-
+![3](3.png)
 
 完成。
 
@@ -321,16 +318,13 @@ http://10.0.0.71/zabbix
 
 
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d5ea5022-17df-4d86-9f40-4b4c12188e0c" />
-
+![4](4.png)
 
 设置中文
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/74505364-a48c-48e4-ad6c-2615f4e9e921" />
+![5](5.png)
 
-
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/de8740da-d7af-4876-b7aa-6b3f5defb045" />
-
+![6](6.png)
 
 
 
@@ -345,8 +339,7 @@ http://10.0.0.71/zabbix
 
 ### 15、确认自我监控成功
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/05a1fef2-da0d-4dd3-9e4f-4b5a4954fd96" />
-
+![7](7.png)
 
 
 
