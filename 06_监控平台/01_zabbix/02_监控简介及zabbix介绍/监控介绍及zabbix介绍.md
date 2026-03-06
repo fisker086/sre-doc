@@ -156,11 +156,7 @@ fi
 
 
 
-![1](1.png)
-
-
-
-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2648b26c-5598-4f5e-b67d-67fbd880a6e8" />
 
 
 
@@ -218,7 +214,8 @@ zabbix有几个主要的软件组件构成，这些组件的功能如下。
 
 
 
-![2](2.png)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2bfe46c5-5660-4568-8de1-9f952d0022bd" />
+
 
 ### 1、server
 
